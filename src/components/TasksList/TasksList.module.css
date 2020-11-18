@@ -1,0 +1,9 @@
+.description {
+  max-width: 400px;
+}
+
+.description__text {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
